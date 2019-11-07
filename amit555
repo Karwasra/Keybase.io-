@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am amit555 on github.
+  * I am karwasra_amit (https://keybase.io/karwasra_amit) on keybase.
+  * I have a public key ASCUZKKgHqXieru7chuiMOyHAS2BMEpOEt1Zqw1B15qYogo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209464a2a01ea5e27abbbb721ba230ec87012d81304a4e12dd59ab0d41d79a98a20a",
+      "host": "keybase.io",
+      "kid": "01209464a2a01ea5e27abbbb721ba230ec87012d81304a4e12dd59ab0d41d79a98a20a",
+      "uid": "e99618a0f0167d1c851598b1020cb119",
+      "username": "karwasra_amit"
+    },
+    "merkle_root": {
+      "ctime": 1573113970,
+      "hash": "b248004feca3155ed18fa28b8abce2e6059c4cb69a99d08ad67eb43496578ff74ae23ca387b82a3e890cd67d72b9572ee0bf4a15304ea29e79892fc50dc096df",
+      "hash_meta": "cc1cae8fd09dabb00fd6c279ff67a312284db2cb605f59b03bf08ea95cd7d397",
+      "seqno": 8869830
+    },
+    "service": {
+      "entropy": "TiqlgUtdQruByRppt8CqVH3S",
+      "name": "github",
+      "username": "amit555"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573113972,
+  "expire_in": 504576000,
+  "prev": "b7b1ddb2172fe37e8d953f61a31f46b24f58598620c38beee6b9a5d1f994fd10",
+  "seqno": 10,
+  "tag": "signature"
+}
+```
+
+with the key [ASCUZKKgHqXieru7chuiMOyHAS2BMEpOEt1Zqw1B15qYogo](https://keybase.io/karwasra_amit), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglGSioB6l4nq7u3IbojDshwEtgTBKThLdWasNQdeamKIKp3BheWxvYWTESpcCCsQgt7Hdshcv436NlT9hox9Gsk9YWYYgw4vu5rml0fmU/RDEIPypu1xyN+tviuTRCdr2IFvDIQ/fg0RgKYN8SZoUnLuDAgHCo3NpZ8RAF+H9l4TnTTdFk6mxiqG8mqz0IiWoEszDfcI65vF+6ptbKAB+so05Yrs8g4ytX3Z7O/M98K4Lyc86VkcrOteJDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFXxNdkVx2T7zzNNcozW618K3HimNYK2GZEN5jmFTroRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/karwasra_amit
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id karwasra_amit
+```
